@@ -15,8 +15,6 @@ public:
 	void swapBuffer();
 	void clearDisplay();
 
-
-
 private:
 
 	void returnError(std::string errorString);
